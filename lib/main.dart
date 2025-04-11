@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/homescreen.dart';
+import 'package:mobile_applications_homework/screens/homescreen.dart';
 
 void main() {
   runApp(const CalculatorApp());
