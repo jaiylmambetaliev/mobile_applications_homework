@@ -63,10 +63,6 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Simple Calculator'),
-        centerTitle: true,
-      ),
       body: Column(
         children: [
           Expanded(
